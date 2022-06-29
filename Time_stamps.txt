@@ -1,0 +1,11 @@
+1- walks in - 3sec
+   walks out - 18sec
+
+2- walks in - 27sec
+   walks out - 43sec
+
+3- walks in - 55sec
+   walks out - 67sec
+
+4- walks in - 75sec
+   walks out - 85sec
